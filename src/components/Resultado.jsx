@@ -45,7 +45,7 @@ const Resultado = ({ resultado }) => {
           Precio más bajo del día: <span>{LOWDAY}</span>
         </Texto>
         <Texto>
-          Variación últimas 24 horas: <span>{CHANGEPCT24HOUR}</span>
+          Variación últimas 24 horas: <span>{CHANGEPCT24HOUR}%</span>
         </Texto>
         <Texto>
           Última actualización: <span>{LASTUPDATE}</span>
